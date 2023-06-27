@@ -41,7 +41,7 @@ const samplePageLinks = [
     description:
       "A simple example of linking to another page within a Gatsby site",
   },
-  { text: "TypeScript", url: "using-typescript" },
+  { text: "NewScript", url: "using-typescript" },
   { text: "Server Side Rendering", url: "using-ssr" },
   { text: "Deferred Static Generation", url: "using-dsg" },
 ]
@@ -61,7 +61,7 @@ const moreLinks = [
     url: "https://gatsbyjs.com/showcase/",
   },
   {
-    text: "Contributing",
+    text: "Mailing",
     url: "https://www.gatsbyjs.com/contributing/",
   },
   { text: "Issues", url: "https://github.com/gatsbyjs/gatsby/issues" },
